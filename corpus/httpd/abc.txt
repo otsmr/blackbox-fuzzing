@@ -1,0 +1,13 @@
+GET / HTTP/1.1
+Host: tplinklogin.net
+Content-Type: text/html; charset=utf-8
+Connection: close
+Content-Type: multipart/form-data; boundary=XXXXXXXXXXXXX;
+Cookie: JSESSIONID=deleted
+Referer: http:://exmaple.org
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: de,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+
+

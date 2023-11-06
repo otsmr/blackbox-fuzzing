@@ -1,0 +1,20 @@
+POST /cgi?8 HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0
+Accept: */*
+Accept-Language: de,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: text/plain
+Content-Length: 43
+Origin: http://localhost:8000
+DNT: 1
+Connection: keep-alive
+Referer: http://localhost:8000/frame/login.htm
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Sec-GPC: 1
+Pragma: no-cache
+Cache-Control: no-cache
+
+[/cgi/getParm#0,0,0,0,0,0#0,0,0,0,0,0]0,0

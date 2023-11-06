@@ -1,0 +1,10 @@
+NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.100:8080/description.xml
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+SERVER: MyUPnP/1.0 UPnP/1.1 MiniUPnPd/1.4
+USN: uuid:3d9f1766-31fd-49e5-9618-c0de74d9e461::urn:schemas-upnp-org:device:MediaServer:1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337

@@ -1,0 +1,5 @@
+GET /main HTTP/1.1
+Host: tplink.net
+Set-Cookie: JSESSIONID=deleted; Expires=Thu, 01 Jan 1970 00:00:01 GMT; Path=/; HttpOnly
+Content-Type: text/html; charset=utf-8
+Connection: close
