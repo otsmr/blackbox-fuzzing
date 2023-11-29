@@ -2,4 +2,5 @@
 
 This repo contains the developed harnesses for my term paper about black box fuzzing.
 
-> The term paper will also be published soon, so stay tuned :)
+You can find the paper [here](./Paper.pdf).
+
